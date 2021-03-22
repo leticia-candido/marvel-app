@@ -7,7 +7,7 @@ export const Container = styled.section `
     margin: 0 auto;
     padding: 2.5rem 1rem;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(10rem, 100%), 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(11rem, 100%), 1fr));
     grid-gap: 4rem;
     text-align: center;
 
@@ -19,6 +19,11 @@ export const Container = styled.section `
         filter: brightness(0.9);
         }
     }  
+
+
+    @media (max-width: 320px) {
+        max-width: 200px;
+    }
 `;
 
 export const Card = styled.div `

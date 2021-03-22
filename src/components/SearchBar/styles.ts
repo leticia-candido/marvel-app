@@ -13,4 +13,10 @@ export const Container = styled.div `
         padding-left: 2px;
         font-size: 1.5rem;
     }
+
+    @media (max-width: 320px) {
+       input {
+           width: 15rem;
+       }
+    }
 `;

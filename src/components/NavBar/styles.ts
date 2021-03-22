@@ -13,6 +13,10 @@ export const TopNav = styled.div `
     padding: 1rem 4rem;
     border-bottom: 1px solid rgba(100, 100, 100, 0.5);
 
+    @media (max-width: 425px) {
+        padding: 1rem;
+    }
+
     a{
         & :hover {
         filter: brightness(0.7);
