@@ -11,4 +11,7 @@ App that shows all the Marvel Comic's characters. You can search by the name of 
 - Polished (A lightweight toolset for writing styles in JavaScript)
 - dotenv (to create ENV variables)
 
+![Captura de Tela 2021-03-22 às 00 28 40](https://user-images.githubusercontent.com/67168910/111947804-e2e3d980-8abc-11eb-8c56-98fe7e01c613.png)
+
+
 
