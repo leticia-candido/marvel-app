@@ -17,6 +17,8 @@ export const Content = styled.div `
     justify-content: space-evenly;
     padding: 2.5rem 5rem;
 
+    
+
     h2 {
         font-size: 4rem;
         font-weight:700;
@@ -25,7 +27,24 @@ export const Content = styled.div `
     img {
         width: 15rem;
         border-radius: 2px;
-    }  
+    } 
+    @media (max-width: 425px) {
+        padding: 2.5rem;
+        
+        h2 {
+            font-size: 3rem;
+        }
+    } 
+
+    @media (max-width: 320px) {
+        img {
+            width: 12rem;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+        }
+    }
 `;
 
 export const About = styled.div `
@@ -52,5 +71,20 @@ export const ComicsDiv = styled.div `
     p{
         margin: 1rem 0;
         font-weight: 500;
+    }
+
+    @media (max-width: 425px) {
+        max-width: 100%;
+        padding: 1rem;
+        grid-gap: 1;
+
+        img {
+            width: 150px;
+            justify-content: center;
+        }
+    }
+
+    @media (max-width: 320px) {
+      text-align: center;
     }
 `;
