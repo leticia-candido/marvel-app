@@ -20,6 +20,11 @@ export const Container = styled.section `
         }
     }  
 
+    @media (max-width: 430px) {
+        grid-template-columns: repeat(auto-fill, minmax(min(10rem, 100%), 1fr));
+    }
+
+
 
     @media (max-width: 320px) {
         max-width: 200px;
