@@ -18,7 +18,7 @@ Home
 Character Selected
 ![Captura de Tela 2021-03-22 às 00 29 55](https://user-images.githubusercontent.com/67168910/111948102-63a2d580-8abd-11eb-921c-a6786e4c5a0c.png)
 
-Comics the Character is in (with load more button)
+Comics from the Selected Character (with load more button)
 ![Captura de Tela 2021-03-22 às 01 09 29](https://user-images.githubusercontent.com/67168910/111948140-774e3c00-8abd-11eb-96e4-a236d53bf20a.png)
 
 ## Installation 
