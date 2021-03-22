@@ -13,5 +13,7 @@ App that shows all the Marvel Comic's characters. You can search by the name of 
 
 ![Captura de Tela 2021-03-22 às 00 28 40](https://user-images.githubusercontent.com/67168910/111947804-e2e3d980-8abc-11eb-8c56-98fe7e01c613.png)
 
+![Captura de Tela 2021-03-22 às 00 29 55](https://user-images.githubusercontent.com/67168910/111948102-63a2d580-8abd-11eb-921c-a6786e4c5a0c.png)
+
 
 
